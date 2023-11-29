@@ -1,6 +1,3 @@
-DO NOT MAKE CHANGES TO THE MAIN BRANCH
-
-
 Notes:
 
 * The Makefile and .gitlab-ci.yml files are set up to run on Ubuntu.
