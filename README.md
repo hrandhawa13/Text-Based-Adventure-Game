@@ -1,7 +1,3 @@
-# Template for CPSC2720 Assignments, Labs, and Projects
-
-Last Updated: 2023-09-21 by Ibrahim Abdoulahi &lt;ibrahim.abdoulahi@uleth.ca&gt;
-
 DO NOT MAKE CHANGES TO THE MAIN BRANCH
 
 
